@@ -1,0 +1,59 @@
+﻿@model IEnumerable<ProjetoFinal_RodrigoPaulino.Models.LojasModel>
+
+@{
+    ViewData["Title"] = "Cadastro de Lojas";
+}
+
+<h1>Lista de Lojas</h1>
+<br>
+
+
+<table class="table" id="table-lojas">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Localizacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Seguimento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Localizacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Seguimento)
+            </td>
+            <td>
+              <i class="bi bi-whatsapp"></i>  @Html.DisplayFor(modelItem => item.Telefone)
+            </td>
+            <td>
+                <a class="btn btn-success" asp-action="Edit" asp-route-id="@item.Id">Editar</a> 
+                <a class="btn btn-dark" asp-action="Details" asp-route-id="@item.Id">Detalhes</a> 
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Excluir Loja</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<p>
+   
+    <!--Aqui muda o texto azul -->
+    <a class="btn btn-success" asp-action="Create">Cadastrar Lojas</a>  
+    <a  class="btn btn-warning" asp-controller="ProdutosModels" asp-action="Index">  Cadastrar Produtos</a>
+     <a class="btn btn-dark"  asp-controller="Home" asp-action="Index">Página Inicial</a>
+</p>

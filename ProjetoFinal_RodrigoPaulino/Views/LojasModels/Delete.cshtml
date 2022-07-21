@@ -1,0 +1,37 @@
+﻿@model ProjetoFinal_RodrigoPaulino.Models.LojasModel
+
+@{
+    ViewData["Title"] = "Apagar Loja";
+}
+
+<h1>Apagar Loja</h1>
+
+<h3>Gostaria de Apagar o Registro da Loja Selecionada?</h3>
+<div>
+   
+    <hr />
+    <dl class="row">
+       
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+       
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Localizacao)
+        </dd>
+       
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Seguimento)
+        </dd>
+       
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Telefone)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Apagar Loja" class="btn btn-danger"/> 
+        <a class="btn btn-dark" asp-action="Index">Voltar a Lista</a>
+    </form>
+</div>

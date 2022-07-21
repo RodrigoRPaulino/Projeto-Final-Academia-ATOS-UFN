@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetoFinal_RodrigoPaulino
+build_property.RootNamespace = ProjetoFinal_RodrigoPaulino
+build_property.ProjectDir = C:\Users\Rodrigo\OneDrive\Área de Trabalho\Versao Final Projeto UFN\Scanffold\ProjetoFinal_RodrigoPaulino\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Rodrigo\OneDrive\Área de Trabalho\Versao Final Projeto UFN\Scanffold\ProjetoFinal_RodrigoPaulino
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/LojasModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9qYXNNb2RlbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/LojasModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9qYXNNb2RlbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/LojasModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9qYXNNb2RlbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/LojasModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9qYXNNb2RlbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/LojasModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9qYXNNb2RlbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/ProdutosModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NNb2RlbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/ProdutosModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NNb2RlbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/ProdutosModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NNb2RlbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/ProdutosModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NNb2RlbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/ProdutosModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NNb2RlbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rodrigo/OneDrive/Área de Trabalho/Versao Final Projeto UFN/Scanffold/ProjetoFinal_RodrigoPaulino/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rsuv12zehb

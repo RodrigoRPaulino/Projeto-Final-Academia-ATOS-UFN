@@ -1,0 +1,60 @@
+html {
+    font-size: 14px;
+    
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+       
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    
+}
+
+
+.field-validation-error {
+    color: darkred
+}
+
+.close-alert {
+    position: absolute;
+    right: -10px;
+    top: -15px;
+    border-radius: 15px;
+    width: 30px;
+    height: 31px;
+   
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url(../Imagens/429165.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  
+}
+
+.credit {
+    background: rgba(0, 0, 0, 0.75);
+    font-size: 1.3em;
+    color: aliceblue;
+    padding: 1em;
+    border-radius: 0.5em;
+   
+}
+
+    .credit a {
+        color: black;
+        transition: 1s;
+    }
+
+        .credit a:hover {
+            
+            text-shadow: 0 0 8px white;
+        }
